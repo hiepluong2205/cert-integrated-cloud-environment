@@ -1,2 +1,2 @@
 # testing-integrated-cloud-environment
-Testing on hybrid cloud systems. AWS
+Testing best practices of Integrated Cloud environment on AWS, designed by HLuong. 
